@@ -10,7 +10,9 @@ class MWFilesListView(ListView):
              "24.006-Р_ИТР_АР_С-4_R22_deniskozlov1.rvt",
              "24.006-Р_ИТР_АР_С-5_R22_deniskozlov1.rvt",
              "24.006-Р_ИТР_АР_С-6_R22_deniskozlov1.rvt",
-             "24.006-Р_ИТР_АР_С-7_R22_deniskozlov1.rvt"]
+             "24.006-Р_ИТР_АР_С-7_R22_deniskozlov1.rvt",
+             "24.006-Р_ИТР_АР_С-8_R22_deniskozlov1.rvt",
+             "24.006-Р_ИТР_АР_С-9_R22_deniskozlov1.rvt"]
 
     _items: list[ListItem] = []
 
