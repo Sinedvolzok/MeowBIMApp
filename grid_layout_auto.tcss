@@ -1,0 +1,93 @@
+#app-rows {
+    margin: 3 5 2 5;
+}
+
+.header {
+    padding-left: 0;
+    text-align: left;
+    height: 8;
+    padding-bottom: 1;
+}
+
+.column {
+    height: 1fr;
+}
+
+.title {
+    height: 2;
+    padding-left: 1;
+    color: $foreground;
+    text-style: bold;
+}
+
+.comment {
+    text-align: left;
+    width: 1fr;
+    height: 1;
+    padding-left: 1;
+    color: $foreground 70%;
+}
+
+.input {
+    width: 1fr;
+    height: 3;
+    margin: 1 4 1 0;
+}
+
+.buttonsHorizontal {
+    margin-top: 1;
+    align: left middle;
+    margin-right: 4;
+    height: 4;
+}
+
+.button {
+    margin: 1 1;
+}
+
+.spacerHorizontal {
+    width: 1fr;
+}
+
+.models {
+    width: 1fr;
+    height: 1fr;
+    padding: 1 2 1 2;
+    margin-top: 1;
+    margin-bottom: 0;
+}
+
+#projects {
+    width: 2fr;
+}
+
+#logo {
+    margin-left: -3;
+    color: $foreground 80%;
+}
+
+#logoText {
+    margin-top: 1;
+    margin-right: 3;
+    color: $foreground 80%;
+}
+
+#logoDescript {
+    margin-top: 2;
+}
+
+#foldersVertical {
+    width: 7fr;
+}
+
+#modelsVertical {
+    width: 6fr;
+}
+
+#modelInfoVertical {
+    width: 6fr;
+}
+
+#revitAndProject {
+    height: 6;
+}
